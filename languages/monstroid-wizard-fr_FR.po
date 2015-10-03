@@ -1,0 +1,474 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Project-Id-Version: Monstroid Wizard\n"
+"POT-Creation-Date: 2015-10-02 14:35+0200\n"
+"PO-Revision-Date: 2015-10-02 16:17+0200\n"
+"Language-Team: fxbenard | FxB <fx@fxbenard.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: monstroid-wizard.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: fxbenard | FxB <fx@fxbenard.com>\n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-monstroid-wizard-helper.php:72
+#, fuzzy
+msgid "Please, fill required fields"
+msgstr ""
+"Cette section de paramètres n'est pas disponible pour le moment. Merci de "
+"renseigner les champs requis ci-dessus et d'enregistrer vos paramètres."
+
+#: includes/class-monstroid-wizard-helper.php:95
+#, fuzzy
+msgid "Can not send activation request. "
+msgstr "Envoyer la demande de soutien"
+
+#: includes/class-monstroid-wizard-helper.php:102
+#, fuzzy
+msgid "Activation request error. "
+msgstr "Une erreur est survenue lors de l&rsquo;activation"
+
+#: includes/class-monstroid-wizard-helper.php:112
+#, fuzzy
+msgid "Bad request."
+msgstr ""
+"400 Bad Request : La demande n'était pas valide. C'est le code d'état "
+"retourné lors de la limitation du débit."
+
+#: includes/class-monstroid-wizard-helper.php:121
+msgid "Wrong license key. Make sure activation key is correct."
+msgstr ""
+
+#: includes/class-monstroid-wizard-helper.php:130
+#: includes/class-monstroid-wizard-helper.php:137
+msgid ""
+"Sorry, the license key you are trying to use exceeded the maximum amount of "
+"activations was applied for 3 domains"
+msgstr ""
+
+#: includes/class-monstroid-wizard-helper.php:155
+msgid ""
+"License key is invalid or evaluation expired. Please, contact Support Live "
+"Chat: <a href=\"http://chat.template-help.com/\">http://chat.template-help."
+"com/</a>"
+msgstr ""
+
+#: includes/class-monstroid-wizard-helper.php:164
+msgid "Theme is not available yet. Please try again in 10 minutes."
+msgstr ""
+
+#: includes/class-monstroid-wizard-helper.php:173
+msgid "Theme is not available. Please contact support team for help."
+msgstr ""
+
+#: includes/class-monstroid-wizard-helper.php:191
+msgid "Everything is ready. Starting theme installation..."
+msgstr ""
+
+#: includes/class-monstroid-wizard-helper.php:227
+#, fuzzy
+msgid "Broken request data"
+msgstr "Cassé :("
+
+#: includes/class-monstroid-wizard-helper.php:237
+#, fuzzy
+msgid "License key not found"
+msgstr ""
+"Une clé de licence a été trouvée, mais elle est <strong>inactive</strong>. "
+"Les mises à jour automatiques <em>ne seront pas disponibles</em> jusqu'à ce "
+"que votre licence soit activée."
+
+#: includes/class-monstroid-wizard-helper.php:260
+#, fuzzy
+msgid "Can't send remote request"
+msgstr "Envoyer la demande de soutien"
+
+#: includes/class-monstroid-wizard-helper.php:267
+#, fuzzy
+msgid "Remote request failed"
+msgstr "Une requête sur les serveurs de Jetpack a échouée."
+
+#: includes/class-monstroid-wizard-helper.php:276
+#, fuzzy
+msgid "Invalid API response"
+msgstr "The get rate request response is invalid"
+
+#: includes/class-monstroid-wizard-install-handlers.php:375
+#, fuzzy
+msgid "Can't download CherryFramework"
+msgstr "Le champ REGEX ne peut être vide."
+
+#: includes/class-monstroid-wizard-install-handlers.php:391
+#, fuzzy
+msgid "Installing child theme"
+msgstr "Ceci est un thème enfant de %s."
+
+#: includes/class-monstroid-wizard-install-handlers.php:419
+#, fuzzy
+msgid "Theme license not activated"
+msgstr "LOG - Licence activée :"
+
+#: includes/class-monstroid-wizard-install-handlers.php:425
+#, fuzzy
+msgid "Can't find theme link"
+msgstr "Trouver un thème selon des critères précis."
+
+#: includes/class-monstroid-wizard-install-handlers.php:447
+#, fuzzy
+msgid "Activating child theme"
+msgstr "Activation du thème"
+
+#: includes/class-monstroid-wizard-install-handlers.php:479
+msgid "Theme name was not provided. Please activate your theme agian"
+msgstr ""
+
+#: includes/class-monstroid-wizard-install-handlers.php:489
+#, fuzzy
+msgid "This theme already active"
+msgstr "Cet utilisateur est déjà activé."
+
+#: includes/class-monstroid-wizard-install-handlers.php:490
+#: includes/class-monstroid-wizard-install-handlers.php:499
+#, fuzzy
+msgid "Installing Live Chat"
+msgstr "chat"
+
+#: includes/class-monstroid-wizard-install-handlers.php:498
+#, fuzzy
+msgid "Theme successfully activated"
+msgstr "L&rsquo;extension a bien été activée."
+
+#: includes/class-monstroid-wizard-install-handlers.php:530
+msgid "Can not download Live Chat"
+msgstr ""
+
+#: includes/class-monstroid-wizard-install-handlers.php:564
+#: includes/class-monstroid-wizard-install-handlers.php:640
+#: includes/class-monstroid-wizard-install-handlers.php:897
+#, fuzzy
+msgid "Plugin activated"
+msgstr "L&rsquo;extension a bien été activée."
+
+#: includes/class-monstroid-wizard-install-handlers.php:571
+#, fuzzy
+msgid "Installing Data Manager"
+msgstr "Cherry Data Manager"
+
+#: includes/class-monstroid-wizard-install-handlers.php:606
+#, fuzzy
+msgid "Can not download Data Manager"
+msgstr "Cherry Data Manager"
+
+#: includes/class-monstroid-wizard-install-handlers.php:657
+#, fuzzy
+msgid "Installing required plugins"
+msgstr "Extensions recommandées / requises"
+
+#: includes/class-monstroid-wizard-install-handlers.php:659
+#, fuzzy
+msgid "Preparing required plugins"
+msgstr "Installer les extensions requises"
+
+#: includes/class-monstroid-wizard-install-handlers.php:703
+msgid "All done"
+msgstr "Terminé"
+
+#: includes/class-monstroid-wizard-install-handlers.php:733
+#: includes/class-monstroid-wizard-install-handlers.php:769
+#, fuzzy, php-format
+msgid "Installing %s"
+msgstr "Installation du thème&nbsp;: %s"
+
+#: includes/class-monstroid-wizard-install-handlers.php:736
+#, fuzzy
+msgid "Plugins prepared"
+msgstr "Supprimer les extensions"
+
+#: includes/class-monstroid-wizard-install-handlers.php:802
+#, fuzzy
+msgid "Plugin not exist"
+msgstr "Le fichier de l&rsquo;extension n&rsquo;existe pas."
+
+#: includes/class-monstroid-wizard-install-handlers.php:843
+#, fuzzy
+msgid "Can not download "
+msgstr "Vous pouvez télécharger ces mises à jour à partir des liens suivants :"
+
+#: includes/class-monstroid-wizard-install-handlers.php:955
+msgid "Next step"
+msgstr "Étape suivante"
+
+#: includes/class-monstroid-wizard-install-handlers.php:959
+msgid "Details"
+msgstr "Détails"
+
+#. Plugin Name of the plugin/theme
+#: includes/class-monstroid-wizard-interface.php:92
+#: includes/class-monstroid-wizard-interface.php:93
+msgid "Monstroid Wizard"
+msgstr "Monstroid Wizard"
+
+#: includes/class-monstroid-wizard-notices.php:124
+msgid "Wizard will help you to install your Monstroid theme."
+msgstr ""
+
+#: includes/class-monstroid-wizard-notices.php:129
+#, fuzzy
+msgid "Install theme"
+msgstr "Installer le thème"
+
+#: includes/class-monstroid-wizard-notices.php:133
+msgid "Dismiss"
+msgstr "Rejeter"
+
+#: includes/class-monstroid-wizard-notices.php:169
+#, fuzzy
+msgid "Plugins directory not writable"
+msgstr "Accessibilité en écriture du répertoire de données Redux"
+
+#: includes/class-monstroid-wizard-notices.php:177
+#, fuzzy
+msgid "Themes directory not writable"
+msgstr "Accessibilité en écriture du répertoire de données Redux"
+
+#: includes/class-monstroid-wizard-notices.php:185
+#, fuzzy
+msgid "Uploads directory not writable"
+msgstr "Dossier log enregistrable"
+
+#: includes/class-monstroid-wizard-notices.php:318
+msgid ""
+"Your hosting server configuration doesn't meet Cherry Framework requirements."
+msgstr ""
+
+#: includes/class-monstroid-wizard-notices.php:319
+msgid "More Details"
+msgstr "Plus de détails"
+
+#: includes/class-monstroid-wizard-notices.php:327
+#, fuzzy
+msgid "Continue anyway"
+msgstr "Continuer ?"
+
+#: includes/class-monstroid-wizard-notices.php:334
+#, fuzzy
+msgid "Change required settings and try again"
+msgstr ""
+"Il y a eu un problème pendant l'importation de vos paramètres. Veuillez "
+"réessayer."
+
+#: includes/class-monstroid-wizard-notices.php:335
+msgid "Try again"
+msgstr "Recommencer"
+
+#: includes/class-monstroid-wizard-themes-list.php:100
+#, fuzzy
+msgid "Live Demo"
+msgstr "Live démo"
+
+#: includes/class-monstroid-wizard-themes-list.php:101
+#: includes/views/wizard-select-type.php:53
+#: includes/views/wizard-select-type.php:69
+msgid "Install"
+msgstr "Installer-ok"
+
+#: includes/class-monstroid-wizard-themes-list.php:150
+msgid "page"
+msgstr "page"
+
+#: includes/class-monstroid-wizard-themes-list.php:172
+#, fuzzy
+msgid "prev"
+msgstr "Préc."
+
+#: includes/class-monstroid-wizard-themes-list.php:177
+#, fuzzy
+msgid "next"
+msgstr "Article suivant"
+
+#: includes/monstroid-wizard-service-hooks.php:154
+#, fuzzy
+msgid "complete"
+msgstr "terminé à"
+
+#: includes/monstroid-wizard-service-hooks.php:258
+#: includes/views/wizard-select-theme.php:27
+#: includes/views/wizard-theme-install.php:72
+msgid "Back"
+msgstr "Retour"
+
+#: includes/views/wizard-select-theme.php:30
+#, fuzzy
+msgid "Select theme to install"
+msgstr "L&rsquo;installation du thème a échoué."
+
+#: includes/views/wizard-select-theme.php:34
+msgid ""
+"If you have installed the Monstroid theme or any other child theme fr om the "
+"Monstroid pack, please remove your posts, pages and uploads prior proceeding "
+"with new Monstroid/child theme installation to avoid issues and content "
+"duplication."
+msgstr ""
+
+#: includes/views/wizard-select-type.php:34
+msgid "Please, select the installation process"
+msgstr "Veuillez sélectionner le processus d'installation."
+
+#: includes/views/wizard-select-type.php:37
+msgid ""
+"Please, choose the theme you would like to install. You can install full "
+"Monstroid pack which includes all pages, plugins, sample content etc or "
+"install any other child theme included within the Monstroid template package."
+msgstr ""
+
+#: includes/views/wizard-select-type.php:45
+#, fuzzy
+msgid "Install Monstroid Main Theme"
+msgstr "L&rsquo;installation du thème a échoué."
+
+#: includes/views/wizard-select-type.php:61
+#, fuzzy
+msgid "Install One of Child Themes"
+msgstr "Installer des thèmes"
+
+#: includes/views/wizard-start.php:21
+#, fuzzy
+msgid "Welcome to Monstroid Installation!"
+msgstr "Bienvenue dans le processus d&rsquo;installation du réseau&nbsp;!"
+
+#: includes/views/wizard-start.php:28
+msgid ""
+"Please make sure your WordPress is upgraded to version <b>4.2.2</b> or "
+"later. This version contains vital security and stability updates required "
+"for the correct work of Cherry Framework."
+msgstr ""
+
+#: includes/views/wizard-start.php:37
+msgid ""
+"Direct write access not allowed on your server. Please, contact our support "
+"team to continue installation."
+msgstr ""
+
+#: includes/views/wizard-start.php:42
+msgid ""
+"Please input license key to begin theme installation. Please note: you can "
+"use a single license key for no more than <b><a href=\"http://info.template-"
+"help.com/help/quick-start-guide/wordpress-themes/monstroid/index.php?"
+"lang=en&section=extras#license-faqs\">1 domain</a></b>."
+msgstr ""
+
+#: includes/views/wizard-start.php:50
+#, fuzzy
+msgid "Activation Key"
+msgstr "Clé d&rsquo;activation"
+
+#: includes/views/wizard-start.php:53
+#, fuzzy
+msgid "Enter theme activation key"
+msgstr "Clef d&rsquo;activation&nbsp;:"
+
+#: includes/views/wizard-start.php:58
+#, fuzzy
+msgid "Start"
+msgstr "Début"
+
+#: includes/views/wizard-start.php:66
+#, fuzzy
+msgid "Get theme key"
+msgstr "Obtenez votre clé d&rsquo;API"
+
+#: includes/views/wizard-start.php:67
+#, fuzzy
+msgid "Order ID"
+msgstr "N&deg; de commande"
+
+#: includes/views/wizard-start.php:68
+#, fuzzy
+msgid "Request"
+msgstr "Requête"
+
+#: includes/views/wizard-success.php:32
+msgid "Congratulations"
+msgstr "Félicitations"
+
+#: includes/views/wizard-success.php:34
+msgid "You have successfully installed your new theme with sample data."
+msgstr ""
+
+#: includes/views/wizard-success.php:37
+#, fuzzy
+msgid "View your site"
+msgstr "Affichez votre site"
+
+#: includes/views/wizard-success.php:38
+#, fuzzy
+msgid "Go to Cherry Options"
+msgstr "Cherry"
+
+#: includes/views/wizard-theme-install.php:29
+msgid "Premium"
+msgstr "Premium"
+
+#: includes/views/wizard-theme-install.php:33
+msgid "Demo"
+msgstr "Démo"
+
+#: includes/views/wizard-theme-install.php:37
+#, fuzzy
+msgid "Undefined"
+msgstr "Indéfini"
+
+#: includes/views/wizard-theme-install.php:75
+#, fuzzy
+msgid "Theme &amp; Plugins Installation"
+msgstr "Thème pour une installation auto-hébergé de WordPress"
+
+#: includes/views/wizard-theme-install.php:78
+msgid "Installing Cherry Framework, child theme and plugins."
+msgstr ""
+
+#: includes/views/wizard-theme-install.php:106 monstroid-wizard.php:377
+#: monstroid-wizard.php:382
+#, fuzzy
+msgid "Retry"
+msgstr "L'action a échouée. Veuillez rafraichir la page et essayer de nouveau."
+
+#: includes/views/wizard-theme-install.php:111
+msgid "Installing Cherry framework"
+msgstr "Installation de Cherry Framework"
+
+#: monstroid-wizard.php:193
+msgid "Theme installation complete. Redirecting to the next step..."
+msgstr ""
+
+#: monstroid-wizard.php:377
+msgid "Please select installation type"
+msgstr "Veuillez choisir un type d&rsquo;installation"
+
+#: monstroid-wizard.php:382
+#, fuzzy
+msgid "Activate your license before installation"
+msgstr "Merci d'activer votre licence dans l'onglet d’activation produit"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.templatemonster.com/"
+msgstr "http://www.templatemonster.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Installation wizard for Monstroid theme"
+msgstr "Thème pour une installation auto-hébergé de WordPress"
+
+#. Author of the plugin/theme
+msgid "TemplateMonster"
+msgstr ""

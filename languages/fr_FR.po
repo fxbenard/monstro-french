@@ -1,0 +1,1294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: blank\n"
+"POT-Creation-Date: 2015-10-01 15:20+0200\n"
+"PO-Revision-Date: 2015-10-01 23:38+0200\n"
+"Language-Team: Monstroid Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_x:1,2c;_n:1,2\n"
+"Last-Translator: fxbenard | FxB <fx@fxbenard.com>\n"
+"Language: fr_FR\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:20
+msgid "Sorry"
+msgstr "Désolé"
+
+#: ../404.php:21
+#, fuzzy
+msgid "It's not you. It's us."
+msgstr "Comment allez-vous nous promouvoir&nbsp;?"
+
+#: ../404.php:22
+#, fuzzy
+msgid "The page you are looking for can't be found."
+msgstr "La page que vous recherchez n'est pas ici"
+
+#: ../404.php:23
+msgid "Go Home!"
+msgstr "Retour à l&rsquo;accueil&nbsp;!"
+
+#: ../admin/class-monstroid-pagetitleblock-meta.php:58
+#, fuzzy
+msgid "Additional page options"
+msgstr "Options d'affichage additionnelles"
+
+#: ../admin/class-monstroid-pagetitleblock-meta.php:104
+#, fuzzy
+msgid "Breadcrumbs and title"
+msgstr "Titre pour le fil d'Ariane"
+
+#: ../admin/class-monstroid-pagetitleblock-meta.php:106
+msgid "Inherit"
+msgstr "Hérité"
+
+#: ../admin/class-monstroid-pagetitleblock-meta.php:107
+msgid "Don't display"
+msgstr "Ne pas afficher"
+
+#: ../admin/class-monstroid-pagetitleblock-meta.php:108
+#, fuzzy
+msgid "Show both - breadcrumbs and title"
+msgstr "Afficher le fil d'Ariane"
+
+#: ../admin/class-monstroid-pagetitleblock-meta.php:109
+#, fuzzy
+msgid "Show only page title"
+msgstr "Afficher le titre de la page/article."
+
+#: ../admin/class-monstroid-pagetitleblock-meta.php:110
+#, fuzzy
+msgid "Show only breadcrumbs"
+msgstr "Taxonomie à afficher dans le fil d'Ariane pour&nbsp;:"
+
+#: ../functions.php:101 ../functions.php:102
+msgid "Clients"
+msgstr "Clients"
+
+#: ../functions.php:126
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../functions.php:127
+msgid "Category"
+msgstr "Catégorie"
+
+#: ../functions.php:350
+msgid "To Top"
+msgstr "En haut"
+
+#: ../functions.php:351
+msgid "Display to top button?"
+msgstr "Afficher le bouton de retour en haut"
+
+#: ../functions.php:356
+msgid "404 content"
+msgstr "Contenu 404"
+
+#: ../functions.php:357
+msgid "Enter 404 page content."
+msgstr "Saisissez le contenu de la page d'erreur 404"
+
+#: ../includes/blog-functions.php:96
+msgid "Featured Image Size"
+msgstr "Taille de l’image à la Une"
+
+#: ../includes/blog-functions.php:99 ../includes/blog-functions.php:102
+#, fuzzy
+msgid "Set dimensions for post featured images."
+msgstr "Régler les dimensions pour Images à la Une d'un article seul."
+
+#: ../includes/blog-functions.php:105
+msgid "Small"
+msgstr "Petit"
+
+#: ../includes/blog-functions.php:106
+#, fuzzy
+msgid "Medium"
+msgstr "Moyenne"
+
+#: ../includes/blog-functions.php:107
+msgid "Large"
+msgstr "Grande"
+
+#. translators: 1: date, 2: time
+#: ../includes/blog-functions.php:159
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: ../includes/blog-functions.php:159
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: ../includes/blog-functions.php:163
+#, php-format
+msgid "<h5><cite class=\"fn\">%s</cite></h5>"
+msgstr ""
+
+#: ../includes/blog-functions.php:171
+#, fuzzy
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de validation."
+
+#: ../includes/blog-functions.php:186
+msgid "User Position"
+msgstr "Poste de l'utilisateur"
+
+#: ../includes/blog-functions.php:190
+#, fuzzy
+msgid "Please enter your position."
+msgstr "Veuillez entrer votre nom"
+
+#: ../includes/blog-functions.php:263
+msgid "Name:"
+msgstr "Nom&nbsp;:"
+
+#: ../includes/blog-functions.php:264
+msgid "E-mail:"
+msgstr "E-mail&nbsp;:"
+
+#: ../includes/blog-functions.php:265
+msgid "Website:"
+msgstr "Site Web&nbsp;:"
+
+#: ../includes/blog-functions.php:266 ../includes/blog-functions.php:267
+msgid "Comment:"
+msgstr "Commentaire :"
+
+#: ../includes/blog-functions.php:288 ../woocommerce/product-searchform.php:2
+#, fuzzy
+msgid "Search for:"
+msgstr "Rechercher&nbsp;:"
+
+#: ../includes/blog-functions.php:310 ../includes/blog-functions.php:332
+msgid "Default"
+msgstr "Par défaut"
+
+#: ../includes/blog-functions.php:311 ../includes/blog-functions.php:333
+msgid "Type 1"
+msgstr "Type 1"
+
+#: ../includes/blog-functions.php:312 ../includes/blog-functions.php:334
+msgid "Type 2"
+msgstr "Type 2"
+
+#: ../includes/blog-functions.php:313
+msgid "Type 3"
+msgstr "Type 3"
+
+#: ../includes/blog-functions.php:316
+msgid "Template"
+msgstr "Modèle"
+
+#: ../includes/blog-functions.php:317
+#, fuzzy
+msgid "Select template to show posts from"
+msgstr "Sélectionnez les termes de provenance des articles"
+
+#: ../includes/blog-functions.php:326
+msgid "Template type"
+msgstr "Type de modèle"
+
+#: ../includes/blog-functions.php:328
+#, fuzzy
+msgid "Select template type for blog posts"
+msgstr "Nombre et affichage des articles"
+
+#: ../includes/class-cherry-wc-product-video-tab.php:70
+#, fuzzy
+msgid "Product video"
+msgstr "YouTube Video Product Tab"
+
+#: ../includes/class-cherry-wc-product-video-tab.php:120
+msgid "Video"
+msgstr "Vidéo"
+
+#: ../includes/class-cherry-wc-product-video-tab.php:145
+#, fuzzy
+msgid "YouTube video link"
+msgstr "Vidéo YouTube"
+
+#: ../includes/class-cherry-wc-product-video-tab.php:145
+#, fuzzy
+msgid "Paste YouTube video URL"
+msgstr "URL de la vidéo (YouTube, Dailymotion or Vimeo):"
+
+#: ../includes/class-tgm-plugin-activation.php:301
+#: ../includes/required-plugins.php:315
+#, fuzzy
+msgid "Install Required Plugins"
+msgstr "Installer les extensions requises"
+
+#: ../includes/class-tgm-plugin-activation.php:302
+#: ../includes/required-plugins.php:316
+#, fuzzy
+msgid "Install Plugins"
+msgstr "Installer des extensions"
+
+#: ../includes/class-tgm-plugin-activation.php:303
+#: ../includes/required-plugins.php:317
+#, fuzzy, php-format
+msgid "Installing Plugin: %s"
+msgstr "Extension en cours d&rsquo;installation&nbsp;: %s"
+
+#: ../includes/class-tgm-plugin-activation.php:304
+#: ../includes/required-plugins.php:318
+msgid "Something went wrong with the plugin API."
+msgstr "Quelque chose ne s’est pas bien passé avec l’API de l’extension."
+
+#: ../includes/class-tgm-plugin-activation.php:365
+#: ../includes/required-plugins.php:329
+#, fuzzy
+msgid "Return to Required Plugins Installer"
+msgstr "Retourner à l’installateur des extensions requises"
+
+#: ../includes/class-tgm-plugin-activation.php:366
+msgid "Return to the dashboard"
+msgstr "Revenir au tableau de bord"
+
+#: ../includes/class-tgm-plugin-activation.php:367
+#: ../includes/class-tgm-plugin-activation.php:2957
+#: ../includes/required-plugins.php:330
+#, fuzzy
+msgid "Plugin activated successfully."
+msgstr "L&rsquo;extension a bien été activée."
+
+#: ../includes/class-tgm-plugin-activation.php:368
+#: ../includes/class-tgm-plugin-activation.php:2785
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:369
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:370
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:371
+#, fuzzy, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Toutes les extensions ont bien été installées et activées. %1$s"
+
+#: ../includes/class-tgm-plugin-activation.php:372
+msgid "Dismiss this notice"
+msgstr "Rejeter cette notification"
+
+#: ../includes/class-tgm-plugin-activation.php:373
+#, fuzzy
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+"Impossible de modifier le cours. Veuillez contacter l'administrateur du site."
+
+#: ../includes/class-tgm-plugin-activation.php:488
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:489
+#, fuzzy
+msgid "Update Required"
+msgstr "Mise à jour requise"
+
+#: ../includes/class-tgm-plugin-activation.php:603
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:796
+#: ../includes/class-tgm-plugin-activation.php:3362
+msgid "Return to the Dashboard"
+msgstr "Revenir au Tableau de bord"
+
+#: ../includes/class-tgm-plugin-activation.php:903
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:903
+#: ../includes/class-tgm-plugin-activation.php:906
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:906
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1849
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: ../includes/class-tgm-plugin-activation.php:2120
+msgid "Required"
+msgstr "Obligatoire"
+
+#: ../includes/class-tgm-plugin-activation.php:2123
+msgid "Recommended"
+msgstr "Recommandée"
+
+#: ../includes/class-tgm-plugin-activation.php:2139
+msgid "WordPress Repository"
+msgstr "Dépot WordPress"
+
+#: ../includes/class-tgm-plugin-activation.php:2142
+msgid "External Source"
+msgstr "Source externe"
+
+#: ../includes/class-tgm-plugin-activation.php:2145
+msgid "Pre-Packaged"
+msgstr "Pré-installé"
+
+#: ../includes/class-tgm-plugin-activation.php:2162
+msgid "Not Installed"
+msgstr "Non installé"
+
+#: ../includes/class-tgm-plugin-activation.php:2166
+#, fuzzy
+msgid "Installed But Not Activated"
+msgstr ""
+"Vous ne pouvez pas demander le contrôle de SPAM par Akismet parce que le "
+"plugin n'est pas installé/activé"
+
+#: ../includes/class-tgm-plugin-activation.php:2168
+#, fuzzy
+msgid "Active"
+msgstr "Active"
+
+#: ../includes/class-tgm-plugin-activation.php:2174
+#, fuzzy
+msgid "Required Update not Available"
+msgstr "Mise à jour disponible"
+
+#: ../includes/class-tgm-plugin-activation.php:2177
+msgid "Requires Update"
+msgstr "Nécessite une mise à jour"
+
+#: ../includes/class-tgm-plugin-activation.php:2180
+#, fuzzy
+msgid "Update recommended"
+msgstr "Recommandée"
+
+#: ../includes/class-tgm-plugin-activation.php:2188
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: ../includes/class-tgm-plugin-activation.php:2236
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2239
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2242
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2324
+#, fuzzy
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnue"
+
+#: ../includes/class-tgm-plugin-activation.php:2332
+#, fuzzy
+msgid "Installed version:"
+msgstr "La version installée du thème actuellement activé."
+
+#: ../includes/class-tgm-plugin-activation.php:2340
+msgid "Minimum required version:"
+msgstr "Version minimum requise :"
+
+#: ../includes/class-tgm-plugin-activation.php:2352
+msgid "Available version:"
+msgstr "Version disponible :"
+
+#: ../includes/class-tgm-plugin-activation.php:2375
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+"Aucune extension à installer ou à activer. <a href=\"%1$s\" title=\"Retour "
+"au tableau de bord\">Retour au tableau de bord</a>."
+
+#: ../includes/class-tgm-plugin-activation.php:2389
+msgid "Plugin"
+msgstr "Extension"
+
+#: ../includes/class-tgm-plugin-activation.php:2390
+msgid "Source"
+msgstr "Source"
+
+#: ../includes/class-tgm-plugin-activation.php:2391
+msgid "Type"
+msgstr "Type"
+
+#: ../includes/class-tgm-plugin-activation.php:2395
+msgid "Version"
+msgstr "Version"
+
+#: ../includes/class-tgm-plugin-activation.php:2396
+msgid "Status"
+msgstr "État"
+
+#: ../includes/class-tgm-plugin-activation.php:2444
+#, fuzzy, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Installer %s"
+
+#: ../includes/class-tgm-plugin-activation.php:2448
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "%2$s mise à jour"
+
+#: ../includes/class-tgm-plugin-activation.php:2453
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Activer %2$s"
+
+#: ../includes/class-tgm-plugin-activation.php:2523
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2556
+#, fuzzy
+msgid "Install"
+msgstr "Installer"
+
+#: ../includes/class-tgm-plugin-activation.php:2562
+msgid "Update"
+msgstr "Mise à jour"
+
+#: ../includes/class-tgm-plugin-activation.php:2565
+#, fuzzy
+msgid "Activate"
+msgstr "Activer"
+
+#: ../includes/class-tgm-plugin-activation.php:2596
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2598
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2634
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucune extension n'est prête à être installée maintenant."
+
+#: ../includes/class-tgm-plugin-activation.php:2636
+#, fuzzy
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucune extension n'est prête à être installée maintenant."
+
+#: ../includes/class-tgm-plugin-activation.php:2741
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2767
+msgid "No plugins are available to be activated at this time."
+msgstr "Aucune extension n'est prête à être activée maintenant."
+
+#: ../includes/class-tgm-plugin-activation.php:2956
+#, fuzzy
+msgid "Plugin activation failed."
+msgstr "L&rsquo;activation de l&rsquo;extension a échouée."
+
+#: ../includes/class-tgm-plugin-activation.php:3286
+#, fuzzy, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour de l&rsquo;extension %1$s (%2$d/%3$d)"
+
+#: ../includes/class-tgm-plugin-activation.php:3288
+#, fuzzy, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Une erreur est survenue pendant l’installation de %1$s : <strong>%2$s</"
+"strong>."
+
+#: ../includes/class-tgm-plugin-activation.php:3289
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Échec de l&#8217;installation de %1$s."
+
+#: ../includes/class-tgm-plugin-activation.php:3293
+#, fuzzy
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Les processus d’installation et d’activation se lancent. Il peut prendre un "
+"certain temps chez certains hébergeurs, merci pour votre patience."
+
+#: ../includes/class-tgm-plugin-activation.php:3294
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installée et activée avec succès."
+
+#: ../includes/class-tgm-plugin-activation.php:3294
+#: ../includes/class-tgm-plugin-activation.php:3300
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#: ../includes/class-tgm-plugin-activation.php:3294
+#: ../includes/class-tgm-plugin-activation.php:3300
+#, fuzzy
+msgid "Hide Details"
+msgstr "Cacher les détails"
+
+#: ../includes/class-tgm-plugin-activation.php:3295
+#, fuzzy
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations sont terminées."
+
+#: ../includes/class-tgm-plugin-activation.php:3296
+#, fuzzy, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation de l’extension %1$s (%2$d/%3$d)"
+
+#: ../includes/class-tgm-plugin-activation.php:3299
+#, fuzzy
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Le processus d’installation se lance. Il peut prendre un certain temps chez "
+"certains hébergeurs, merci pour votre patience."
+
+#: ../includes/class-tgm-plugin-activation.php:3300
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s a bien été installée."
+
+#: ../includes/class-tgm-plugin-activation.php:3301
+#, fuzzy
+msgid "All installations have been completed."
+msgstr "Toutes les installations sont terminées."
+
+#: ../includes/class-tgm-plugin-activation.php:3302
+#, fuzzy, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Extension %1$s (%2$d/%3$d) en cours d&rsquo;installation"
+
+#: ../includes/portfolio-functions.php:14
+msgid "Primary color"
+msgstr "Couleur principale"
+
+#: ../includes/portfolio-functions.php:15
+#, fuzzy
+msgid "Choose portfolio Primary color."
+msgstr "Couleur de fond du menu primaire"
+
+#: ../includes/portfolio-functions.php:44
+msgid "All"
+msgstr "Tout"
+
+#: ../includes/required-plugins.php:331
+#, fuzzy, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Toutes les extensions ont bien été installées et activées. %s"
+
+#: ../includes/shortcodes-functions.php:55
+#, fuzzy
+msgid "Triange progress bar"
+msgstr "Barre de progression animée"
+
+#: ../includes/shortcodes-functions.php:135
+msgid "Profession:"
+msgstr "Profession :"
+
+#: ../includes/shortcodes-functions.php:136
+#, fuzzy
+msgid "Enter a profession."
+msgstr "Profession (témoignages uniquement)"
+
+#: ../includes/shortcodes-functions.php:147
+#, fuzzy
+msgid "Rate:"
+msgstr "Taux %"
+
+#: ../includes/shortcodes-functions.php:148
+#, fuzzy
+msgid "Rate testimonal"
+msgstr "Note..."
+
+#: ../includes/shortcodes-functions.php:187
+msgid "Department:"
+msgstr "Département&nbsp;:"
+
+#: ../includes/shortcodes-functions.php:208
+msgid "Author (Testimonials only)"
+msgstr "Auteur (témoignages uniquement)"
+
+#: ../includes/shortcodes-functions.php:214
+msgid "Profession (Testimonials only)"
+msgstr "Profession (témoignages uniquement)"
+
+#: ../includes/shortcodes-functions.php:220
+#, fuzzy
+msgid "Rating (Testimonials only)"
+msgstr "Auteur (témoignages uniquement)"
+
+#: ../includes/shortcodes-functions.php:276
+msgid "Paddings"
+msgstr ""
+
+#: ../includes/shortcodes-functions.php:281
+#, fuzzy
+msgid "Padding top 20px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:285
+#, fuzzy
+msgid "Padding top 40px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:289
+#, fuzzy
+msgid "Padding top 60px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:293
+#, fuzzy
+msgid "Padding top 80px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:297
+#, fuzzy
+msgid "Padding top 100px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:301
+#, fuzzy
+msgid "Padding top 120px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:305
+#, fuzzy
+msgid "Padding top 140px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:309
+#, fuzzy
+msgid "Padding top 160px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:313
+#, fuzzy
+msgid "Padding bottom 20px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:317
+#, fuzzy
+msgid "Padding bottom 40px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:321
+#, fuzzy
+msgid "Padding bottom 60px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:325
+#, fuzzy
+msgid "Padding bottom 80px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:329
+#, fuzzy
+msgid "Padding bottom 100px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:333
+#, fuzzy
+msgid "Padding bottom 120px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:337
+#, fuzzy
+msgid "Padding bottom 140px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:341
+#, fuzzy
+msgid "Padding bottom 160px"
+msgstr "Marge interne supérieure et inférieure"
+
+#: ../includes/shortcodes-functions.php:353
+msgid "Style-1"
+msgstr "Style-1"
+
+#: ../includes/shortcodes-functions.php:354
+msgid "Style-2"
+msgstr "Style-2"
+
+#: ../includes/shortcodes-functions.php:355
+msgid "Pills-1"
+msgstr "Pilules-1"
+
+#: ../includes/shortcodes-functions.php:356
+msgid "Pills-2"
+msgstr "Pilules-2"
+
+#: ../includes/shortcodes-functions.php:357
+msgid "Pills-3"
+msgstr "Pilules-3"
+
+#: ../includes/shortcodes-functions.php:358
+msgid "Pills-4"
+msgstr "Pilules-4"
+
+#: ../includes/shortcodes-functions.php:359
+msgid "Pills-5"
+msgstr "Pilules-5"
+
+#: ../includes/shortcodes-functions.php:360
+msgid "Pills-6"
+msgstr "Pilules-6"
+
+#: ../includes/shortcodes-functions.php:361
+msgid "Simple-1"
+msgstr "Simple-1"
+
+#: ../includes/shortcodes-functions.php:362
+msgid "Simple-2"
+msgstr "Simple-2"
+
+#: ../includes/shortcodes-functions.php:363
+msgid "Simple-3"
+msgstr "Simple-3"
+
+#: ../includes/shortcodes-functions.php:364
+msgid "Simple-4"
+msgstr "Simple-4"
+
+#: ../includes/shortcodes-functions.php:365
+msgid "Simple-5"
+msgstr "Simple-5"
+
+#: ../includes/shortcodes-functions.php:366
+msgid "Simple-6"
+msgstr "Simple-6"
+
+#: ../includes/woocommerce-functions.php:82
+msgid "Details"
+msgstr "Détails"
+
+#: ../includes/woocommerce-functions.php:99
+#, fuzzy
+msgid "Shop sidebar"
+msgstr ""
+"Les attributs vous laisse définir des données supplémentaires pour les "
+"produits, tels que la taille ou la couleur. Vous pouvez utiliser ces "
+"attributs dans la barre latérale de la boutique en utilisant les widgets "
+"\"layered nav\". Veuillez noter : vous ne pouvez pas renommer un attribut "
+"ultérieurement."
+
+#: ../includes/woocommerce-functions.php:101
+#, fuzzy
+msgid "Sidebar for shop page"
+msgstr "La barre latérale pour les pages de WooCommerce."
+
+#: ../includes/woocommerce-functions.php:228
+#: ../woocommerce/single-product/product-image.php:45
+#, fuzzy
+msgid "Placeholder"
+msgstr "Espace réservé"
+
+#: ../includes/woocommerce-functions.php:283
+msgid "Shop"
+msgstr "Boutique"
+
+#: ../init/config/menus.php:21
+msgid "Primary"
+msgstr "Principal"
+
+#: ../init/config/menus.php:22
+msgid "Secondary"
+msgstr "Secondaire"
+
+#: ../init/config/menus.php:23
+#, fuzzy
+msgid "Landing"
+msgstr "L'extension Landing Pages n'a pas pu être installée"
+
+#: ../init/config/sidebars.php:25
+msgid "Main Sidebar"
+msgstr "Barre latérale principale"
+
+#: ../init/config/sidebars.php:26
+#, fuzzy
+msgid ""
+"This is the main sidebar if you are using a two or three column site layout "
+"option."
+msgstr ""
+"Il s'agit de la barre latérale principale si vous utilisez une option de "
+"mise en page en deux ou trois colonnes."
+
+#: ../init/config/sidebars.php:33
+msgid "Secondary Sidebar"
+msgstr "Barre latérale secondaire"
+
+#: ../init/config/sidebars.php:34
+#, fuzzy
+msgid ""
+"This is the secondary sidebar if you are using a three column site layout "
+"option."
+msgstr ""
+"Il s'agit de la barre latérale secondaire si vous utilisez une option de "
+"mise en page en trois colonnes."
+
+#: ../init/config/sidebars.php:41
+msgid "Header Sidebar"
+msgstr "Barre latérale d&rsquo;en-tête"
+
+#: ../init/config/sidebars.php:42
+#, fuzzy
+msgid "A sidebar located in the header of the site."
+msgstr "Barre latérale située dans l'en-tête du site."
+
+#: ../init/config/sidebars.php:49
+#, fuzzy
+msgid "Footer Sidebar 1"
+msgstr "Pied de page Barre latérale 1"
+
+#: ../init/config/sidebars.php:50 ../init/config/sidebars.php:58
+#: ../init/config/sidebars.php:66 ../init/config/sidebars.php:74
+msgid "A sidebar located in the footer of the site."
+msgstr "Une barre latérale placée dans le pied de page de votre site."
+
+#: ../init/config/sidebars.php:57
+#, fuzzy
+msgid "Footer Sidebar 2"
+msgstr "Pied de page Barre latérale 2"
+
+#: ../init/config/sidebars.php:65
+#, fuzzy
+msgid "Footer Sidebar 3"
+msgstr "Pied de page Barre latérale 3"
+
+#: ../init/config/sidebars.php:73
+#, fuzzy
+msgid "Footer Sidebar 4"
+msgstr "Pied de page Barre latérale 4"
+
+#: ../init/config/sidebars.php:81
+#, fuzzy
+msgid "Footer Shop Sidebar 1"
+msgstr "Pied de page Barre latérale 1"
+
+#: ../init/config/sidebars.php:82 ../init/config/sidebars.php:90
+#: ../init/config/sidebars.php:98 ../init/config/sidebars.php:106
+msgid "A sidebar located in the footer of the shop home page."
+msgstr ""
+
+#: ../init/config/sidebars.php:89
+#, fuzzy
+msgid "Footer Shop Sidebar 2"
+msgstr "Pied de page Barre latérale 2"
+
+#: ../init/config/sidebars.php:97
+#, fuzzy
+msgid "Footer Shop Sidebar 3"
+msgstr "Pied de page Barre latérale 3"
+
+#: ../init/config/sidebars.php:105
+#, fuzzy
+msgid "Footer Shop Sidebar 4"
+msgstr "Pied de page Barre latérale 4"
+
+#: ../init/config/sidebars.php:113
+msgid "Header Top Line Sidebar For Shop Menu"
+msgstr ""
+
+#: ../init/config/sidebars.php:114 ../init/config/sidebars.php:122
+#, fuzzy
+msgid "A sidebar located in the header of the shop pages."
+msgstr "La barre latérale pour les pages de WooCommerce."
+
+#: ../init/config/sidebars.php:121
+msgid "Header Top Line Sidebar For Search and Cart"
+msgstr ""
+
+#: ../init/config/static-areas.php:24
+#, fuzzy
+msgid "Header Top"
+msgstr "En-tête Haut"
+
+#: ../init/config/static-areas.php:30
+#, fuzzy
+msgid "Header Bottom"
+msgstr "En-tête Bas"
+
+#: ../init/config/static-areas.php:36
+msgid "Showcase Area"
+msgstr "Zone de vitrine"
+
+#: ../init/config/static-areas.php:42
+#, fuzzy
+msgid "Footer Top"
+msgstr "Pied de page Haut "
+
+#: ../init/config/static-areas.php:48
+#, fuzzy
+msgid "Footer Bottom"
+msgstr "Pied de page Bas "
+
+#: ../init/config/static-areas.php:54
+#, fuzzy
+msgid "Footer Widgets Area"
+msgstr "Widgets de pied de page"
+
+#: ../init/config/static-areas.php:60
+#, fuzzy
+msgid "Footer Shop Widgets Area"
+msgstr "Widgets de pied de page"
+
+#: ../init/config/static-areas.php:66
+#, fuzzy
+msgid "Header Top Line Shop"
+msgstr "En-tête Haut"
+
+#: ../init/statics/footer-shop-sidebars.php:38
+#, fuzzy
+msgid "Footer Shop Sidebars"
+msgstr "Barres laterales du Pied de page"
+
+#: ../init/statics/header-shop-main-menu.php:45
+#, fuzzy
+msgid "Header Shop Main Menu"
+msgstr "Les options du menu principal dans l'en-tête."
+
+#: ../init/statics/header-shop-menu.php:36
+#, fuzzy
+msgid "Header Shop Menu Sidebar"
+msgstr "Barre latérale de l'en-tête"
+
+#: ../init/statics/header-shop-search-cart.php:36
+msgid "Header Shop Search Cart Sidebar"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr "Total du panier"
+
+#: ../woocommerce/cart/cart-totals.php:24
+msgid "Subtotal:"
+msgstr "Sous-total"
+
+#: ../woocommerce/cart/cart-totals.php:46
+msgid "Shipping:"
+msgstr "Expédition :"
+
+#: ../woocommerce/cart/cart-totals.php:78
+msgid "Total:"
+msgstr "Total :"
+
+#: ../woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr "(taxes estimées pour %s)"
+
+#: ../woocommerce/cart/cart-totals.php:93
+#, fuzzy, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+"Note : La livraison et les taxes sont estimés%s et seront mis à jour au "
+"cours de la commande selon vos informations de livraison et de facturation."
+
+#: ../woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr "Produit"
+
+#: ../woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr "Prix"
+
+#: ../woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr "Quantité"
+
+#: ../woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr "Total"
+
+#: ../woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr "Enlever cet élément"
+
+#: ../woocommerce/cart/cart.php:76
+#, fuzzy
+msgid "Available on backorder"
+msgstr "Disponible sur commande"
+
+#: ../woocommerce/cart/cart.php:122
+#, fuzzy
+msgid "Coupon code"
+msgstr "Code Promo"
+
+#: ../woocommerce/cart/cart.php:122
+#, fuzzy
+msgid "Apply Coupon"
+msgstr "Appliquer le Code Promo"
+
+#: ../woocommerce/cart/cart.php:128
+msgid "Update Cart"
+msgstr "Mettre à jour le panier"
+
+#: ../woocommerce/cart/cross-sells.php:40
+#, fuzzy
+msgid "You may be interested in&hellip;"
+msgstr "Vous serez peut-être intéressé par&hellip;"
+
+#: ../woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] "%s avis sur %s"
+msgstr[1] "%s avis sur %s"
+
+#: ../woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr "Avis"
+
+#: ../woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr "Il n’y pas encore d’avis."
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr "Ajouter un avis"
+
+#: ../woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr "Soyez le premier à donner votre avis"
+
+#: ../woocommerce/single-product-reviews.php:61
+#, fuzzy, php-format
+msgid "Leave a Reply to %s"
+msgstr "Répondre à %s"
+
+#: ../woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr "Nom"
+
+#: ../woocommerce/single-product-reviews.php:69
+msgid "Email"
+msgstr "E-mail"
+
+#: ../woocommerce/single-product-reviews.php:74
+msgid "Submit"
+msgstr "Envoyer"
+
+#: ../woocommerce/single-product-reviews.php:80
+msgid "Your Rating"
+msgstr "Votre évaluation"
+
+#: ../woocommerce/single-product-reviews.php:81
+#, fuzzy
+msgid "Rate&hellip;"
+msgstr "Taux&hellip;"
+
+#: ../woocommerce/single-product-reviews.php:82
+msgid "Perfect"
+msgstr "Parfait"
+
+#: ../woocommerce/single-product-reviews.php:83
+msgid "Good"
+msgstr "Bon"
+
+#: ../woocommerce/single-product-reviews.php:84
+msgid "Average"
+msgstr "Moyen"
+
+#: ../woocommerce/single-product-reviews.php:85
+msgid "Not that bad"
+msgstr "Pas si mal"
+
+#: ../woocommerce/single-product-reviews.php:86
+msgid "Very Poor"
+msgstr "Très mauvais"
+
+#: ../woocommerce/single-product-reviews.php:90
+msgid "Your Review"
+msgstr "Votre avis"
+
+#: ../woocommerce/single-product-reviews.php:100
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Seuls les clients connectés et ayant acheté ce produit peuvent laisser un "
+"avis."
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:35
+msgid "Choose an option"
+msgstr "Sélectionnez une option"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:70
+msgid "Clear selection"
+msgstr "Réinitialiser la sélection"
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:95
+#, fuzzy
+msgid "This product is currently out of stock and unavailable."
+msgstr "Produit non disponible"
+
+#: ../woocommerce/single-product/related.php:42
+#, fuzzy
+msgid "Related Products"
+msgstr "Produits en Relation"
+
+#: ../woocommerce/single-product/review.php:28
+#, fuzzy
+msgid "Your comment is awaiting approval"
+msgstr "Votre commentaire est en attente de validation"
+
+#: ../woocommerce/single-product/review.php:39
+msgid "verified owner"
+msgstr "propriétaire vérifié"
+
+#: ../woocommerce/single-product/review.php:48
+#, php-format
+msgid "Rated %d out of 5"
+msgstr "Noté %d sur 5"
+
+#: ../woocommerce/single-product/review.php:49
+msgid "out of 5"
+msgstr "sur 5"
+
+#: ../woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr "Vous aimerez peut-être aussi&hellip;"
+
+#: ../blog-layouts/tmpl/layout-grid-type-1-aside.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-1-attachment.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-1-audio.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-1-chat.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-1-content.tmpl:9
+#: ../blog-layouts/tmpl/layout-grid-type-1-gallery.tmpl:7
+#: ../blog-layouts/tmpl/layout-grid-type-1-image.tmpl:7
+#: ../blog-layouts/tmpl/layout-grid-type-1-link.tmpl:11
+#: ../blog-layouts/tmpl/layout-grid-type-1-page.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-1-quote.tmpl:11
+#: ../blog-layouts/tmpl/layout-grid-type-1-standard.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-1-status.tmpl:7
+#: ../blog-layouts/tmpl/layout-grid-type-1-video.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-2-aside.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-2-attachment.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-2-audio.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-2-chat.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-2-content.tmpl:9
+#: ../blog-layouts/tmpl/layout-grid-type-2-gallery.tmpl:7
+#: ../blog-layouts/tmpl/layout-grid-type-2-image.tmpl:7
+#: ../blog-layouts/tmpl/layout-grid-type-2-link.tmpl:11
+#: ../blog-layouts/tmpl/layout-grid-type-2-page.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-2-quote.tmpl:11
+#: ../blog-layouts/tmpl/layout-grid-type-2-standard.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-2-status.tmpl:7
+#: ../blog-layouts/tmpl/layout-grid-type-2-video.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-3-aside.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-3-attachment.tmpl:6
+#: ../blog-layouts/tmpl/layout-grid-type-3-status.tmpl:7
+#: ../blog-layouts/tmpl/layout-masonry-type-1-aside.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-1-attachment.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-1-audio.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-1-chat.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-1-content.tmpl:9
+#: ../blog-layouts/tmpl/layout-masonry-type-1-gallery.tmpl:7
+#: ../blog-layouts/tmpl/layout-masonry-type-1-image.tmpl:7
+#: ../blog-layouts/tmpl/layout-masonry-type-1-link.tmpl:11
+#: ../blog-layouts/tmpl/layout-masonry-type-1-page.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-1-quote.tmpl:11
+#: ../blog-layouts/tmpl/layout-masonry-type-1-standard.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-1-status.tmpl:7
+#: ../blog-layouts/tmpl/layout-masonry-type-1-video.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-2-aside.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-2-attachment.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-2-audio.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-2-chat.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-2-content.tmpl:9
+#: ../blog-layouts/tmpl/layout-masonry-type-2-gallery.tmpl:7
+#: ../blog-layouts/tmpl/layout-masonry-type-2-image.tmpl:7
+#: ../blog-layouts/tmpl/layout-masonry-type-2-link.tmpl:11
+#: ../blog-layouts/tmpl/layout-masonry-type-2-page.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-2-quote.tmpl:11
+#: ../blog-layouts/tmpl/layout-masonry-type-2-standard.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-2-status.tmpl:7
+#: ../blog-layouts/tmpl/layout-masonry-type-2-video.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-3-aside.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-3-attachment.tmpl:6
+#: ../blog-layouts/tmpl/layout-masonry-type-3-status.tmpl:7
+#: ../blog-layouts/tmpl/layout-timeline-type-1-aside.tmpl:4
+#: ../blog-layouts/tmpl/layout-timeline-type-1-attachment.tmpl:5
+#: ../blog-layouts/tmpl/layout-timeline-type-1-audio.tmpl:4
+#: ../blog-layouts/tmpl/layout-timeline-type-1-chat.tmpl:5
+#: ../blog-layouts/tmpl/layout-timeline-type-1-content.tmpl:7
+#: ../blog-layouts/tmpl/layout-timeline-type-1-gallery.tmpl:5
+#: ../blog-layouts/tmpl/layout-timeline-type-1-image.tmpl:5
+#: ../blog-layouts/tmpl/layout-timeline-type-1-link.tmpl:11
+#: ../blog-layouts/tmpl/layout-timeline-type-1-page.tmpl:5
+#: ../blog-layouts/tmpl/layout-timeline-type-1-quote.tmpl:12
+#: ../blog-layouts/tmpl/layout-timeline-type-1-standard.tmpl:5
+#: ../blog-layouts/tmpl/layout-timeline-type-1-status.tmpl:6
+#: ../blog-layouts/tmpl/layout-timeline-type-1-video.tmpl:5
+#: ../content/aside.tmpl:5 ../content/attachment.tmpl:6 ../content/audio.tmpl:6
+#: ../content/chat.tmpl:6 ../content/content.tmpl:8 ../content/gallery.tmpl:7
+#: ../content/image.tmpl:8 ../content/link.tmpl:12 ../content/quote.tmpl:13
+#: ../content/standard.tmpl:5 ../content/status.tmpl:8 ../content/video.tmpl:7
+msgid "by "
+msgstr "par "
+
+#: ../blog-layouts/tmpl/layout-grid-type-1-content.tmpl:16
+#: ../blog-layouts/tmpl/layout-grid-type-2-content.tmpl:16
+#: ../blog-layouts/tmpl/layout-masonry-type-1-content.tmpl:16
+#: ../blog-layouts/tmpl/layout-masonry-type-2-content.tmpl:16
+#: ../blog-layouts/tmpl/layout-timeline-type-1-chat.tmpl:13
+#: ../blog-layouts/tmpl/layout-timeline-type-1-content.tmpl:15
+#: ../content/chat.tmpl:13 ../content/content.tmpl:16
+msgid "Posted in "
+msgstr "Publié dans "
+
+#: ../content/aside.tmpl:4 ../content/attachment.tmpl:5 ../content/chat.tmpl:5
+#: ../content/content.tmpl:7 ../content/status.tmpl:7
+msgid "Posted on "
+msgstr "Publié le "
+
+#: ../content/aside.tmpl:7 ../content/status.tmpl:10
+msgid "in "
+msgstr "dans "
