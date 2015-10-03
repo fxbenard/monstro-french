@@ -78,16 +78,6 @@ function cherry_data_manager_french_load_textdomain(){
 	}
 }
 
-add_action( 'after_setup_theme', 'my_unload_textdomain' );
-
-function my_unload_textdomain( $domain ) {
-	switch ( $domain ){
-		case 'monstroid-wizard':
-			unload_textdomain( 'monstroid-wizard' );
-			load_plugin_textdomain( $domain, false, basename( dirname( __FILE__ ) ) .'/languages/' );
-	break;
-	}
-}
 
 /*
  * Load Monstroid Wizard textdomain function
