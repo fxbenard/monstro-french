@@ -83,18 +83,23 @@ function cherry_data_manager_french_load_textdomain(){
  * Load Monstroid Wizard textdomain function
  * Thanks to @grappler for his help
  */
-function plugin_name_load_plugin_textdomain() {
-	$domain = 'monstroid-wizard';
-	$locale = apply_filters( 'plugin_locale', get_locale(), $domain );
-	if ( $loaded = load_textdomain( $domain, WP_LANG_DIR . '/plugins/monstroid-french/' ) ) {
-		return $loaded;
-	} elseif ( $loaded = load_textdomain( $domain, trailingslashit( WP_LANG_DIR ) . $domain . '/' . $domain . '-' . $locale . '.mo' ) ) {
-		return $loaded;
-	} else {
-		load_plugin_textdomain( $domain, false, basename( dirname( __FILE__ ) ) . '/languages/' );
+function monstroid_load_plugin_textdomain() {
+	$domains = array(
+		'monstroid-wizard'
+	);
+	$domains = apply_filters( 'monstroid_french_text_domains', $domains );
+	foreach ( $domains as $domain ) {
+		$locale = apply_filters( 'plugin_locale', get_locale(), $domain );
+		if ( $loaded = load_textdomain( $domain, WP_LANG_DIR . '/plugins/monstroid-french/' ) ) {
+			return $loaded;
+		} elseif ( $loaded = load_textdomain( $domain, trailingslashit( WP_LANG_DIR ) . $domain . '/' . $domain . '-' . $locale . '.mo' ) ) {
+			return $loaded;
+		} else {
+			load_plugin_textdomain( $domain, false, basename( dirname( __FILE__ ) ) . '/languages/' );
+		}
 	}
 }
-add_action( 'after_setup_theme', 'plugin_name_load_plugin_textdomain', 999 );
+add_action( 'plugins_loaded', 'monstroid_load_plugin_textdomain', 0 );
 
 
 // this is the URL our updater / license checker pings. This should be the URL of the site with EDD installed
